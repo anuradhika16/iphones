@@ -1,0 +1,5 @@
+this is using unbuntu
+sudo apt install git 
+git clone 
+ls
+cd
